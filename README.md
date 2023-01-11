@@ -59,3 +59,9 @@ By separating the application's concerns into these three layers, and making sur
 [Common web application architectures](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
 
 [Goapp](https://github.com/bnkamalesh/goapp)
+
+## Todo
+- [ ] General response format
+- [ ] Logging
+- [ ] Error handling
+- [ ] Adding Authentication
